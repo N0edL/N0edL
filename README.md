@@ -1,4 +1,8 @@
-
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
 <p align="center"> <img src="https://i.pinimg.com/originals/5c/3a/41/5c3a412bd6886ce2f8f3a8b1c3abb7c9.gif"> </p>
 
 <h1 align="center">Hi 👋, My name is NoedL</h1>
