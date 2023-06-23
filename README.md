@@ -2,7 +2,11 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/925538473044234260?hideBadges=true)](https://discord.com/users/925538473044234260?hideBadges=true)
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋</h1>
+
+<div align="center">
+    <img src="https://lanyard.cnrad.dev/api/925538473044234260?hideBadges=true">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n0edl&label=Profile%20views&color=0e75b6&style=flat" alt="n0edl" /> </p>
 
