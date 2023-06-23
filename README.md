@@ -1,6 +1,6 @@
 
 <p align="center"> <img src="https://i.pinimg.com/originals/5c/3a/41/5c3a412bd6886ce2f8f3a8b1c3abb7c9.gif"> </p>
-
+$${\color{red}Red}$$
 <h1 align="center">Hi 👋, My name is NoedL</h1>
 <h3 style="color:red;">A upcoming backend developer!</h3>
 <div align="center">
