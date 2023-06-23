@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi 👋, My name is NoedL</h1>
 <div align="center">
     <img src="https://lanyard.cnrad.dev/api/925538473044234260?hideBadges=true">
 </div>
