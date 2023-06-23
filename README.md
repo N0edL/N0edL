@@ -3,7 +3,7 @@
     <img src="https://lanyard.cnrad.dev/api/925538473044234260?hideBadges=true">
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n0edl&label=Profile%20views&color=3d3d3d&style=flat-square" alt="n0edl" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=n0edl&label=Profile%20views&color=3d3d3d&style=flat" alt="n0edl" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,6 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n0edl&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="n0edl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n0edl&show_icons=true&locale=en" alt="n0edl" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n0edl&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="n0edl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n0edl&theme=dark" alt="n0edl" /></p>
