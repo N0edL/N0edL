@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=n0edl&label=Profile%20views&color=3d3d3d&style=flat" alt="n0edl" /> </p>
+
 <h1 align="center">Hi 👋, My name is NoedL</h1>
 <div align="center">
     <img src="https://lanyard.cnrad.dev/api/925538473044234260?hideBadges=true">
@@ -5,8 +7,6 @@
 
 
 <p align="center"> <img src="https://i.pinimg.com/originals/5c/3a/41/5c3a412bd6886ce2f8f3a8b1c3abb7c9.gif"> </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=n0edl&label=Profile%20views&color=3d3d3d&style=flat" alt="n0edl" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
