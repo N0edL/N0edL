@@ -1,9 +1,4 @@
-### Hi there 👋
-[![Discord Presence](https://lanyard.cnrad.dev/api/925538473044234260?hideBadges=true)](https://discord.com/users/925538473044234260?hideBadges=true)
-
-
 <h1 align="center">Hi 👋</h1>
-
 <div align="center">
     <img src="https://lanyard.cnrad.dev/api/925538473044234260?hideBadges=true">
 </div>
