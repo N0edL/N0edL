@@ -1,18 +1,12 @@
 
-<p align="center"> <img src="https://i.pinimg.com/originals/5c/3a/41/5c3a412bd6886ce2f8f3a8b1c3abb7c9.gif"> </p>
+<p align="center"> <img src="https://media.discordapp.net/attachments/1116760349677473823/1122106441839419422/Comp-1_1.gif?width=1440&height=192"> </p>
 <h1 align="center">Hi 👋, My name is NoedL</h1>
-<h3 style="color:red;">A upcoming backend developer!</h3>
+<h3 align="center">A upcoming backend developer!</h3>
 <div align="center">
     <img src="https://lanyard.cnrad.dev/api/925538473044234260?hideBadges=true">
 </div>
-
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=n0edl&label=Profile%20views&color=3d3d3d&style=flat" alt="n0edl" /> </p>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://discord.gg/KuJRnspTHQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KuJRnspTHQ" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="center">Languages im learning:</h3>
 <p align="center"> <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="lua" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
