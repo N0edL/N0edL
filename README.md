@@ -1,10 +1,11 @@
-
-<p align="center"> <img src="https://imgur.com/ZFsfg0N.gif?width=1440&height=100"> </p>
+<p align="center"> <img src="https://media.discordapp.net/attachments/1116760349677473823/1122106441839419422/Comp-1_1.gif?width=1440&height=192"> </p>
+<br>
 <h1 align="center">Hi 👋, My name is NoedL</h1>
 <h3 align="center">A upcoming backend developer!</h3>
 <div align="center">
     <img src="https://lanyard.cnrad.dev/api/925538473044234260?hideBadges=true">
 </div>
+<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=n0edl&label=Profile%20views&color=3d3d3d&style=flat" alt="n0edl" /> </p>
 
