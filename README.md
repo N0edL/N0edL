@@ -7,8 +7,6 @@
 </div>
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=n0edl&label=Profile%20views&color=3d3d3d&style=flat" alt="n0edl" /> </p>
-
 <h3 align="center">Languages im learning:</h3>
 <p align="center">
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="lua" width="40" height="40"/> </a>
