@@ -19,6 +19,5 @@
 </br>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=n0edl&theme=dark" alt="n0edl" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n0edl&theme=dark" alt="n0edl" />
 </p>
