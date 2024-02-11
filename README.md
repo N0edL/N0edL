@@ -9,12 +9,16 @@
 
 <h3 align="center">Languages im learning:</h3>
 <p align="center">
-<a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="lua" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/></a> </p>
+    <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="lua" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/></a>
+    <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/></a> 
+</p>
 
+<br>
+</br>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=n0edl&theme=dark" alt="n0edl" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n0edl&theme=dark" alt="n0edl" /></p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=n0edl&theme=dark" alt="n0edl" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n0edl&theme=dark" alt="n0edl" />
+</p>
