@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is NoedL</h1>
 <h3 align="center">A upcoming backend developer!</h3>
 <div align="center">
-    <img src="https://lanyard.cnrad.dev/api/925538473044234260?hideBadges=true">
+    <img src="https://lanyard.cnrad.dev/api/925538473044234260">
 </div>
 
 <h3 align="center">Languages i'm learning</h3>
