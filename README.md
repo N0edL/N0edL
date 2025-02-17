@@ -16,6 +16,6 @@
 
 <p align="right">
     <a href="https://ko-fi.com/noedl" target="_blank">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="120"/>
+        <img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png?_gl=1*a304av*_gcl_aw*R0NMLjE3Mzk4MDgwMzcuQ2p3S0NBaUEyY3U5QmhCaEVpd0FmdDZJeE9HV1dhOWFRNUFXb0NSajhjUTNiMEdWQi15UW45dGdLalVSZ1RYVW9iajVPV3ozTHJIaVlob0NpT3NRQXZEX0J3RQ..*_gcl_au*NDExNDczMjI3LjE3Mzk4MDg0MTI.*_ga*NzA2NTgzMTg5LjE3Mzk4MDgzNzI.*_ga_M13FZ7VQ2C*MTczOTgwODM3MS4xLjEuMTczOTgwODU2Mi4xLjAuMA.." alt="Buy Me A Coffee" width="200"/>
     </a>
 </p>
