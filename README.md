@@ -15,7 +15,7 @@
 </p>
 
 <p align="right">
-    <a href="https://www.buymeacoffee.com/noedl" target="_blank">
+    <a href="https://ko-fi.com/noedl" target="_blank">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="120"/>
     </a>
 </p>
